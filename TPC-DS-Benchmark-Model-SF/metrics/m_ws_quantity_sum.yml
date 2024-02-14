@@ -1,7 +1,7 @@
 unique_name: m_ws_quantity_sum
 object_type: metric
 label: Web Quantity Sold
-description: web_sales.ws_quantity_sum
+description: web_sales.ws_quantity_sum_test
 calculation_method: sum
 unrelated_dimensions_handling: empty
 dataset: web_sales
